@@ -37,11 +37,6 @@
 > **Example:** A state-sponsored group quietly breaching a country's power grid systems to plant backdoors for future use, or stealing intellectual property from foreign tech companies to boost their own national economy.
 
 ---
-Others: 
-
-[![Foo][https://flow-content.google/image/142ff56b-b1f1-48d2-8c80-6c8649d885b8?Expires=1792873958&KeyName=labs-flow-prod-cdn-key&Signature=5WWGNbIYteHhx61UvT0xgWi_DvY]]
-
----
 
 ## Reference
 
