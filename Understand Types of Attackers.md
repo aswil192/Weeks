@@ -39,7 +39,7 @@
 ---
 Others: 
 
-![[Pasted image 20261024193746.png]]
+[![Foo][https://flow-content.google/image/142ff56b-b1f1-48d2-8c80-6c8649d885b8?Expires=1792873958&KeyName=labs-flow-prod-cdn-key&Signature=5WWGNbIYteHhx61UvT0xgWi_DvY]]
 
 ---
 
