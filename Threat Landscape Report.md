@@ -81,23 +81,23 @@ They're not looking for technical geniuses to outsmart — they're looking for b
 
 Here are five simple, actionable habits you can start using today — no technical background required:
 
-### 1. 🔑 Use a Password Manager
+### 1. Use a Password Manager
 
 A password manager is like a **locked safe for all your keys**. It creates strong, unique passwords for every account and remembers them for you. You only need to remember one master password. This means if one website is breached, your other accounts stay safe (because you're not reusing the same password everywhere).
 
-### 2. 🔐 Enable Multi-Factor Authentication (MFA)
+### 2. Enable Multi-Factor Authentication (MFA)
 
 MFA is like **having a second lock on your door**. Even if someone steals your password, they still need a second step — like a code sent to your phone — to get in. Turn it on wherever it's offered (email, banking, work accounts). It's one of the single most effective things you can do.
 
-### 3. 🖱️ Think Before You Click
+### 3. Think Before You Click
 
 Before clicking a link or opening an attachment, **pause and look**. Hover over links to see where they really go. If a message feels urgent, unexpected, or too good to be true, it probably is. When in doubt, verify by contacting the sender through a separate, known channel (like calling them directly).
 
-### 4. 🔄 Keep Software Updated
+### 4. Keep Software Updated
 
 Updates are like **getting your locks re-keyed when a new lock-picking trick is discovered**. Software updates often include important security fixes. Don't click "remind me later" forever — let those updates install.
 
-### 5. 💾 Back Up Your Data
+### 5. Back Up Your Data
 
 A backup is like **keeping a photocopy of important documents in a safe place**. If ransomware locks your files, a backup means you can recover without paying. Back up regularly to an external drive or a trusted cloud service.
 
