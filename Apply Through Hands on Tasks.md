@@ -76,7 +76,7 @@ A chain of four vulnerabilities was weaponized almost immediately after technica
 
 ---
 
-## 4. [[Threat Landscape Report]]
+## 4. [Threat Landscape Report](Threat Landscape Report.md)
 
 ---
 
