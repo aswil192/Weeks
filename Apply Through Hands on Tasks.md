@@ -1,7 +1,7 @@
 
 ## 1. Build a Personal CyberSecurity Lab
 
-[[/IMG/lab.png]]
+![img](IMG/lab.png)
 
 
 ---
