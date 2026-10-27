@@ -3,7 +3,7 @@
 
 An operation system is the core software that coordinates everything happening on a computer. It sits between the user, applications and the system's physical hardware, acting as the invisible manager that keeps the entire machine running as one unified system.
 
-![[operating system.svg]]
+![img](img/operating system.svg)
 
 ---
 
