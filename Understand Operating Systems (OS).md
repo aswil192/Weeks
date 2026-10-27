@@ -3,7 +3,7 @@
 
 An operation system is the core software that coordinates everything happening on a computer. It sits between the user, applications and the system's physical hardware, acting as the invisible manager that keeps the entire machine running as one unified system.
 
-![img](img/operating system.svg)
+![img](IMG/operating%20system.svg)
 
 ---
 
@@ -13,7 +13,7 @@ We need an operating system because it provides this all-important job of coordi
 
 Inside an modern computer, differnet parts of the system operate at various permission levels. Some components can communicate directly with the hardware, While regular applications run in a safer, restricted environment. This separation is intentional and helps prevent conflicts and security issues.
 
-![[Software and hardware.png]]
+![img](IMG/Software%20and%20hardware.png)
 
 ---
 
