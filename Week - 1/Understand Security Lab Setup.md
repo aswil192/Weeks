@@ -2,7 +2,7 @@
 
 **Virtualization** is the process of creating a software-based (virtual) representation of computing resources, such as servers, storage, networks, or operating systems. It abstracts the physical hardware, allowing multiple isolated environments to run simultaneously on a single physical machine.
 
->**Hypervisor:** The software that creates and the virtualization is called a hypervisor. It allocates and controls the sharing of a machine's resources
+> **Hypervisor:** The software that creates and manages virtual machines is called a hypervisor. It allocates and controls the sharing of a machine's resources:
 >
 >- Disk
 >- Memory
@@ -10,13 +10,13 @@
 
 ###  i. Type 1 Hypervisor (Bare Metal)
 
-Type 1 hypervisor runs directly on the physical hardware of the host machine without needing an underlying operating system. It is also knows an **bare-metal hypervisor**
+A Type 1 hypervisor runs directly on the physical hardware of the host machine without needing an underlying operating system. It is also known as a **bare-metal hypervisor**.
 
 >**Example:** VMware ESXi, Microsoft Hyper-V, Citrix XenServer
 
 ### ii. Type 2 Hypervisor (Hosted)
 
-Type 2 hypervisor runs on top of an existing operating system (OS) on the host machine, It is also called a **Hosted Hypervisor** 
+A Type 2 hypervisor runs on top of an existing operating system (OS) on the host machine. It is also called a **hosted hypervisor**.
 
 >**Example:** Oracle VirtualBox, VMware Workstation, Microsoft Virtual PC 
 

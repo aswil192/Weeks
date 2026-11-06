@@ -3,31 +3,31 @@
 
 #### i. CPU
 
-The CPU is the "brain" of the computer - it executes instructions and performs calculations. It fetches instructions from memory, decodes them, and carries out the operations (arithmetic, logic, control).
+The CPU is the "brain" of the computer. It executes instructions and performs calculations. It fetches instructions from memory, decodes them, and carries out operations involving arithmetic, logic, and control.
 
-- Cores: Modern CPU have multiple cores, allowing parallel processing.
+- Cores: Modern CPUs have multiple cores, allowing parallel processing.
 - Clock speed: Measured in GHz; indicates how many cycles per second it can process.
 - Cache: Small, fast memory on the CPU for frequently used data.
-- Examples: Intel core i7, AMD Ryzen 5, Apple M-series chips.
+- Examples: Intel Core i7, AMD Ryzen 5, and Apple M-series chips.
 
-#### ii. Memory (Ram)
+#### ii. Memory (RAM)
 
 Memory is volatile, short-term working storage that holds data and instructions currently in use by the CPU. It's fast but loses its contents when power is off.
 
 - Purpose: Lets the CPU quickly access active programs and data without waiting on slower storage.
-- Characteristics: Measure in GB; higher capacity allows more programs open simultaneously.
-- Types: DDR4/DDR5 are common standards 
+- Characteristics: Measured in GB; higher capacity allows more programs to be open simultaneously.
+- Types: DDR4 and DDR5 are common standards.
 
-#### iii. Storage 
+#### iii. Storage
 
-Storage is non-volatile, long term storage that retains data without power. It holds the operating system, applications and files.
+Storage is non-volatile, long-term storage that retains data without power. It holds the operating system, applications, and files.
 
-1. Types of storage: 
+1. Types of storage:
 	- HDD: Magnetic spinning disks; cheaper, larger capacity, slower.
-	- SSD: Flash-based; much faster, more durable, more expensive per GB
+	- SSD: Flash-based; much faster, more durable, and more expensive per GB.
 	- NVMe SSDs: Fastest, connected directly via PCIe.
 	
-2.  Measured in GB and TB.
+2. Storage is measured in GB and TB.
 
 ---
 
@@ -35,17 +35,17 @@ Storage is non-volatile, long term storage that retains data without power. It h
 
 #### i. Hardware
 
-Hardware id the physical, tangible part of a computer - the components you can touch. It's the machinery that executes instructions.
+Hardware is the physical, tangible part of a computer: the components you can touch. It is the machinery that executes instructions.
 
-- Examples: CPU, RAM, motherboard, hard drive/SSD, monitor, keyboard, mouse, GPU, PSU
+- Examples: CPU, RAM, motherboard, hard drive/SSD, monitor, keyboard, mouse, GPU, and PSU.
 - Key trait: Physical; it can wear out, break, or be replaced.
-- Role: Provides thr raw capability - processinf, storing, displayonf, and input/output.
+- Role: Provides the raw capabilities for processing, storing, displaying, and input/output.
 
 #### ii. Software
 
-software is the intangible set of instructions, programs, and data that tell the hardware what to do. You can't touch it, but it controls the hardware.
+Software is the intangible set of instructions, programs, and data that tell the hardware what to do. You cannot touch it, but it controls the hardware.
 
-- Examples: Operating system (Windows,Linux), applications (Browsers, games), drivers and firmware
+- Examples: Operating systems (Windows, Linux), applications (browsers and games), drivers, and firmware.
 - Key trait: Logical; it's code and data stored on hardware but distinct from it.
 - Role: Directs and coordinates hardware to perform useful tasks.
 
@@ -57,7 +57,7 @@ software is the intangible set of instructions, programs, and data that tell the
 
 #### iii. How Software and Hardware work together
 
-Hardware and software interdependent - neither is useful alone: 
+Hardware and software are interdependent; neither is useful alone:
 
 - Hardware without software is like a car with no driver: capable but inert.
 - Software without hardware is like instructions with nothing to carry them out: it can't run.
@@ -70,27 +70,27 @@ The operating system acts as the bridge, managing hardware resources and providi
 
 #### i. Binary Data
 
-Binary is a base-2 number system that uses only two digits: 0 and 1. Every piece of information in a computer - text, images, sound, videos, programs - is ultimately represented as patterns of these tow values.
+Binary is a base-2 number system that uses only two digits: 0 and 1. Every piece of information in a computer, including text, images, sound, videos, and programs, is ultimately represented as patterns of these two values.
 
-The reason why computer use binary is physical: electronic circuits are most reliable when distinguishing between just two states, such as: 
+The reason computers use binary is physical: electronic circuits are most reliable when distinguishing between just two states, such as:
 - Voltage high vs low
 - switch on vs off
-- Magnetised vs not magnetised (in storrage)
+- Magnetized vs. not magnetized (in storage)
 
-A single 0 or 1 is called a bit (short for binary digit). A group of 8 bits is a byte, which can represent 256 different values (2^8) 
+A single 0 or 1 is called a bit (short for binary digit). A group of 8 bits is a byte, which can represent 256 different values (2^8).
 
 #### ii. How computers physically store Bits
 
 | Storage Type     | How a bit is Represented                                     |
 | ---------------- | ------------------------------------------------------------ |
-| Ram              | Tiny capacitors holding charge (charged = 1, discharged = 0) |
+| RAM              | Tiny capacitors holding charge (charged = 1, discharged = 0) |
 | SSD (flash)      | Trapped electrons in floating-gate transistors               |
-| HDD (Magnetic)   | Magnetised domains on a spinning disk                        |
+| HDD (magnetic)   | Magnetized domains on a spinning disk                        |
 | Optical (CD/DVD) | Pits and lands reflecting laser light                        |
-| CPU Registers    | Flip=flop circuits (Transistor states)                       |
+| CPU registers    | Flip-flop circuits (transistor states)                       |
 #### iii. How it works
 
-The power of binary is that everything reduces to the same simple representation. A computer doesn't separate hardware hardware for text, images and sound - it just process bits. software layers (operating systems, codecs, file formats) interpret those bits differently
+The power of binary is that everything reduces to the same simple representation. A computer does not use separate hardware for text, images, and sound; it simply processes bits. Software layers (operating systems, codecs, and file formats) interpret those bits differently.
 ```
 Bits → Bytes → Data structures → Files → Applications
 ```
@@ -101,8 +101,8 @@ Bits → Bytes → Data structures → Files → Applications
 
 - [TryHackMe - Data Representation](https://tryhackme.com/room/datarepresentation)
 - [TryHackMe - Data Encoding](https://tryhackme.com/room/dataencoding)
-- [Youtube - CPU,Ram, Storage and boot process](https://youtu.be/o5UywekZ39k)
-- [Youtube - How data is stored inside a computer](https://youtu.be/cbaocBxuIOo)
+- [YouTube - CPU, RAM, storage, and boot process](https://youtu.be/o5UywekZ39k)
+- [YouTube - How data is stored inside a computer](https://youtu.be/cbaocBxuIOo)
 
 
 

@@ -2,13 +2,13 @@
 
 A **threat** is any potential cause of an unwanted incident that could result in harm to a system or organization. It represents a danger that might exploit a vulnerability.
 
-> **Example:** A malicious hacker, a piece of malware (like ransomware), or even a employee who intends to cause damage.
+> **Example:** A malicious hacker, a piece of malware (like ransomware), or even an employee who intends to cause damage.
 
 ---
 
 ## 2. Vulnerabilities
 
-A **vulnerability** is a weakness or flaw in a system's design, implementation, or operation that can be exploited by a threat. 
+A **vulnerability** is a weakness or flaw in a system's design, implementation, or operation that can be exploited by a threat.
 
 > **Example:** Using a weak password, having unpatched software, or leaving a database publicly accessible without authentication.
 

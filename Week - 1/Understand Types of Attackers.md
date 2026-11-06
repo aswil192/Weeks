@@ -1,6 +1,6 @@
 ## 1. Script Kiddies
 
-**Script kiddies** are individuals with less technical skills who use pre-written tools, scripts, and exploits created by others to launch attacks. They often do it for fun, curiosity, or to show off, rather than for a specific strategic goal.
+**Script kiddies** are individuals with limited technical skills who use pre-written tools, scripts, and exploits created by others to launch attacks. They often do it for fun, curiosity, or to show off, rather than for a specific strategic goal.
 
 > **Example:** A beginner using a downloaded "DDoS tool" or a YouTube tutorial to knock a website offline without understanding how the code actually works.
 
@@ -32,7 +32,7 @@
 
 ## 5. Nation-State Actors
 
-**Nation-state actors** (or Advanced Persistent Threats - APTs) are highly skilled, well-funded hacking groups sponsored by a government. They focus on espionage, stealing state secrets, disrupting critical infrastructure, or gathering intelligence for geopolitical advantage.
+**Nation-state actors** (or advanced persistent threats, APTs) are highly skilled, well-funded hacking groups sponsored by a government. They focus on espionage, stealing state secrets, disrupting critical infrastructure, or gathering intelligence for geopolitical advantage.
 
 > **Example:** A state-sponsored group quietly breaching a country's power grid systems to plant backdoors for future use, or stealing intellectual property from foreign tech companies to boost their own national economy.
 

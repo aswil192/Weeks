@@ -14,9 +14,9 @@ Confidentiality ensures that only authorized people can see or access sensitive 
 
 ## 2. Integrity
 
-Integrity ensures that information hasn't been changed by anyone without permission.
+Integrity ensures that information has not been changed without permission.
 
-> **Example:** When you upload files to a website, hash validation and logs ensure the exact file matches the file received by the server, without being altered in the middle.
+> **Example:** When you upload a file to a website, hash validation and logs ensure that the file received by the server matches the original and has not been altered in transit.
 
 ---
 
