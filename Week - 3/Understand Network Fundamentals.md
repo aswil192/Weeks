@@ -66,21 +66,27 @@ Two major models:
 #### Topologies
 
 BUS:
+
 ![Bus topology](others/bus-topology-diagram-29007878.webp)
 
 STAR:
+
 ![Star topology](others/image-12.png%20%281%29.webp)
 
 RING:
+
 ![Ring topology](others/ring-topology4.webp)
 
 MESH:
+
 ![Mesh topology](others/image-15.png.webp)
 
 TREE:
+
 ![Tree topology](others/Tree-Topology.webp)
 
 HYBRID:
+
 ![Hybrid topology](others/Hybrid-Topology-Diagram-1024x727.webp)
 
 ---
