@@ -77,6 +77,13 @@ Characteristics:
 
 #### Concepts:
 
+- Subnet mask — defines which bits are network vs host
+- /24 = 255.255.255.0 = 24 network bits, 8 host bits
+- CIDR notation — /n where n = number of network bits
+- Network address — all host bits = 0 (reserved)
+- Broadcast address — all host bits = 1 (reserved)
+
+
 
 
 

@@ -11,7 +11,8 @@ The Open Systems Interconnection model is a conceptual framework developed by IS
 | Network      | Logical addressing, routing                    | IP, ICMP, OSPF         |
 | Data Link    | Framing, MAC addressing , error detection      | Ethernet, Wi-Fi, ARP   |
 | Physical     | Bits on the wire, signaling                    | Cables, hubs, voltages |
-![[0c8410d11655d3c6c0fce93dcd2653c4.webp]]
+
+![OSI Model](others/0c8410d11655d3c6c0fce93dcd2653c4.webp)
 
 ---
 ## 2. TCP/IP Model
