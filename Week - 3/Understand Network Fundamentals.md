@@ -1,6 +1,6 @@
 ## 1. What is Networking
 
-Networking is a practice of connecting two or more computing two or more computing devices so they can exchange data and share resources (files, printers, internet access, etc.)
+Networking is a practice of connecting two or more computing devices so they can exchange data and share resources (files, printers, internet access, etc.)
 
 Key points:
 
